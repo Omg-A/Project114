@@ -27,3 +27,8 @@ canvas{
     50%{box-shadow: 1px 1px 38px rgb(0, 183, 255);}
     100%{box-shadow: 1px 1px 38px rgb(49, 255, 94);}
 }
+
+p{
+    color: white;
+    font-weight: bolder;
+}
