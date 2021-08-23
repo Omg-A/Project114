@@ -32,3 +32,7 @@ p{
     color: white;
     font-weight: bolder;
 }
+
+canvas{
+    margin-top: 30px;
+}
